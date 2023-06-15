@@ -4,3 +4,6 @@
 
 ## Latent Variable Statistics
 ![Latent](Latent.png)
+
+## Correlations
+![Correlations](Correlation.png)
